@@ -57,6 +57,20 @@ var characters = [
     age: 200,
     forcePoints: 100
   },
+  {
+    routeName: "ahsoka",
+    name: "Ahsoka Tano",
+    role: "Jedi Padawan ",
+    age: 36,
+    forcePoints: 1500
+  },
+  {
+    routeName: "hansolo",
+    name: "Han Solo",
+    role: "Scuff nerf herder",
+    age: 40,
+    forcePoints: 1500
+  },
 ];
 
 // Routes
